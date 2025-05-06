@@ -12,9 +12,9 @@ UE_Neurosync_Agent is an Unreal Engine project that integrates the NeuroSync fra
 ## Requirements
 
 - Unreal Engine 5.1 or later
-- [NeuroSync Model](https://huggingface.co/AnimaVR/NeuroSync-0.1a) (128-frame input)
-- [LiveLink Plugin](https://www.unrealengine.com/marketplace/en-US/product/livelink) for real-time data streaming
-- [Python](https://www.python.org/downloads/) (for model inference and data processing)
+- [NeuroSync Model]([https://huggingface.co/AnimaVR/NeuroSync-0.1a](https://github.com/its-DeFine/NeuroSync-Core)) (128-frame input)
+- [LiveLink Plugin]([https://www.unrealengine.com/marketplace/en-US/product/livelink](https://dev.epicgames.com/documentation/en-us/unreal-engine/live-link-in-unreal-engine)) for real-time data streaming
+- [Python](https://www.python.org/) (for model inference and data processing)
 
 ## Installation
 

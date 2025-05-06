@@ -1,0 +1,20 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE/project files
+.vscode/
+*.VC.db
+*.sln
+*.suo
+*.opensdf
+*.log
+
+# Mac
+.DS_Store
+
+# Git LFS metadata
+.gitattributes

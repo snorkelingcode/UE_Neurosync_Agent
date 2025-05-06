@@ -49,7 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Unreal Engine](https://www.unrealengine.com/) for providing the platform and tools for development.
 - [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman-creator) for high-quality character creation.
 
-## Contact
 
-For questions or support, please open an issue on this repository or contact the project maintainer at [your-email@example.com].
 

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
               "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
               "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEQAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-05T23:17:20.889Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCCharacter.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T23:17:20.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T23:17:20.652Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-05T23:17:01.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T23:17:01.126Z"
             },
             {
               "$type": "Document",
@@ -78,6 +76,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-02T02:50:02.889Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

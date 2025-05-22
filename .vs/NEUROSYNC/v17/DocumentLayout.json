@@ -3,20 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{AAEE6B12-5028-3F92-97F2-DB8DA91F2500}|Intermediate\\ProjectFiles\\NEUROSYNC.vcxproj|C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\NEUROSYNC.uproject||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAEE6B12-5028-3F92-97F2-DB8DA91F2500}|Intermediate\\ProjectFiles\\NEUROSYNC.vcxproj|solutionrelative:NEUROSYNC.uproject||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\NEUROSYNC\\NEUROSYNCCharacter.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.h||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\NEUROSYNC\\NEUROSYNCGameMode.h||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +17,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NEUROSYNCCharacter.cpp",
-              "DocumentMoniker": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
-              "RelativeDocumentMoniker": "Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
-              "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
-              "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCCharacter.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAEQAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-05T23:17:20.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NEUROSYNCCharacter.h",
-              "DocumentMoniker": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.h",
-              "RelativeDocumentMoniker": "Source\\NEUROSYNC\\NEUROSYNCCharacter.h",
-              "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCCharacter.h",
-              "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCCharacter.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T23:17:20.652Z"
+              "Title": "Microsoft.MakeFile.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.MakeFile.targets",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-22T22:47:02.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NEUROSYNCGameMode.cpp",
-              "DocumentMoniker": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp",
-              "RelativeDocumentMoniker": "Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp",
-              "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp",
-              "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCGameMode.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-05T23:17:01.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NEUROSYNCGameMode.h",
-              "DocumentMoniker": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.h",
-              "RelativeDocumentMoniker": "Source\\NEUROSYNC\\NEUROSYNCGameMode.h",
-              "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\Source\\NEUROSYNC\\NEUROSYNCGameMode.h",
-              "RelativeToolTip": "Source\\NEUROSYNC\\NEUROSYNCGameMode.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-02T02:50:02.889Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "DocumentIndex": 0,
+              "Title": "NEUROSYNC.uproject",
+              "DocumentMoniker": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\NEUROSYNC.uproject",
+              "RelativeDocumentMoniker": "NEUROSYNC.uproject",
+              "ToolTip": "C:\\Users\\danek\\OneDrive\\Documents\\Unreal Projects\\NEUROSYNC\\NEUROSYNC.uproject",
+              "RelativeToolTip": "NEUROSYNC.uproject",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T22:40:18.013Z",
+              "EditorCaption": ""
             }
           ]
         }
